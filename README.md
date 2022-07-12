@@ -1,2 +1,1 @@
-# a test website for Border Studios
-
+# The official Website for Border Studios Germany.
