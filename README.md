@@ -1,1 +1,1 @@
-# The official Website for Border Studios Germany.
+# The official Website for Border Studio Germany.
