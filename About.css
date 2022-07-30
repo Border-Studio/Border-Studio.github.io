@@ -69,7 +69,6 @@
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   grid-gap: 10px 10px;
   min-height: 432px;
-  grid-auto-columns: calc(50% - 5px);
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -79,7 +78,7 @@
 .u-section-2 .u-image-1 {
   width: 290px;
   height: 290px;
-  background-image: url("/images/channels4_profile.jpg");
+  background-image: url("/images/pfp.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -108,7 +107,7 @@
 .u-section-2 .u-image-2 {
   width: 290px;
   height: 290px;
-  background-image: url("/images/channels4_profile1.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_29071268/images/IMG_1295%20(Bearbeitet).PNG?rand=c64d");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -158,14 +157,12 @@
 @media (max-width: 991px) {
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-    grid-auto-columns: calc(100% - 0px);
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
   }
 
   .u-section-2 .u-container-layout-1 {
