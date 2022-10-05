@@ -1,1 +1,1 @@
-# The official Website for Border Studio Germany.
+# The official Website for Horizon Studios.
