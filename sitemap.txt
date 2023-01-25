@@ -1,5 +1,3 @@
 https://games-horizon.github.io/Home.html
 https://games-horizon.github.io/index.html
-https://games-horizon.github.io/About.html
-https://games-horizon.github.io/Contact.html
-https://games-horizon.github.io/Downloads.html
+https://games-horizon.github.io/Impressum.html
